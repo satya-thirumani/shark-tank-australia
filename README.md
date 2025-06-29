@@ -1,7 +1,7 @@
 # shark-tank-australia
 SharkTank dataset of Australia television business reality show
 
-Currently, the data set has information from SharkTank season 1 to Shark Tank AU season 5. The dataset has 52 fields/columns and 240+ records.
+Currently, the data set has information from SharkTank season 1 to Shark Tank AU season 6. The dataset has 52 fields/columns and 270+ records.
 
 Here is the data dictionary for Shark Tank Australia season's dataset.
 
